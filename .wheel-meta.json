@@ -1,0 +1,22 @@
+{
+  "wheel_id": 917,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-113",
+  "project": "waterproofing-adelaide-faq-7e9b28f7f5f65ec7d1cd81f26a3ce0e4b1db",
+  "parent_t1_ref": "prowaterproofingadelaide-156",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide faq",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-113/",
+  "tier": "T2",
+  "writeback_nonce": "0a0ddfaf98c5791a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/waterproofing-adelaide-local-options-compared-2904e2b25c8c03cbd/",
+      "anchor": "Waterproofing Adelaide Local Options Compared: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
